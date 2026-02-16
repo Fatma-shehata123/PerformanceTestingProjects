@@ -1,0 +1,6 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1770945534710,1172,Visit the Sign Up Page,200,OK,Thread Group 1-1,text,true,,3063,123,1,1,https://todo.qacart.com/signup,1167,0,1064
+1770945535885,242,Register Request,201,Created,Thread Group 1-1,text,true,,1394,287,1,1,https://todo.qacart.com/api/v1/users/register,242,0,0
+1770945536184,99,Get Tasks,200,OK,Thread Group 1-1,text,true,,3063,121,1,1,https://todo.qacart.com/todo,98,0,0
+1770945536283,126,Add Todo,201,Created,Thread Group 1-1,text,true,,933,450,1,1,https://todo.qacart.com/api/v1/tasks,126,0,0
+1770945536410,101,Get Tasks,200,OK,Thread Group 1-1,text,true,,3063,121,1,1,https://todo.qacart.com/todo,101,0,0
